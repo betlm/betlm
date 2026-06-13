@@ -1,6 +1,7 @@
 ### Merhaba 👋 | Hi there
 
 Ben **Betül Merey**, Sabancı Üniversitesi'nde **Bilgisayar Bilimi ve Mühendisliği** okuyorum, aynı zamanda **Ekonomi** alanında çift anadal (ÇAP) yapıyorum.
+
 I'm **Betül Merey**, a Computer Science & Engineering student at Sabancı University, also pursuing a double major in Economics.
 
 ---

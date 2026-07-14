@@ -7,7 +7,7 @@ I'm **Betül Merey**, a Computer Science & Engineering student at Sabancı Unive
 - Email: betulmerey@gmail.com
 - School Email: betulmerey@sabanciuniv.edu
 
-#### 🔭 İlgi Alanlarım | Interests
+#### 🔭 Interests
 - Data Analysis & Machine Learning
 - Database Systems
 - Web Development

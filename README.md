@@ -6,7 +6,7 @@ I'm **Betül Merey**, a Computer Science & Engineering student at Sabancı Unive
  
 - LinkedIn: [linkedin.com/in/betulmerey](https://www.linkedin.com/in/betulmerey)
 - Email: betulmerey@gmail.com
-- School Email: betulmerey@sabanciuniv.edu
+- School Email: betul.merey@sabanciuniv.edu
 #### 🔭 Interests
  
 - Data Analysis & Machine Learning
